@@ -1,0 +1,6 @@
+#root {
+    display: flex;
+    flex-direction:row;
+    justify-content:first baseline;
+    height: 100vh;
+}
